@@ -15,7 +15,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
   
 
-- [Type of Pruning](#Type)
+- [Type of Pruning](#type-of-pruning)
 
 - [2019 Venues](#2019)
 - [2018 Venues](#2018)
