@@ -1,4 +1,5 @@
 
+
 # Awesome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
   
@@ -14,7 +15,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
   
 
-- [Neural Network Pruning](#NAS)
+- [Type of Pruning](#Type)
 
 - [2019 Venues](#2019)
 
@@ -22,36 +23,31 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 - [2017 Venues](#2017)
 
-- [Previous Venues](#2012-2016)
 
-  
 
-  
 
-## Neural Architecture Search (NAS)
-
-  
+### Type of Pruning
 
 |  Type |  `F` |  `W`  |  `Other` |
 |:------------|:--------------:|:----------------------:|:----------:|
 | Explanation | Filter pruning | Weight pruning | other types |
 
-  
-
-  
 
 ### 2019
 
-  
-
 |  Title  | Venue  | Type | Code |
 |:--------|:--------:|:--------:|:--------:|
-| [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) | CVPR (Oral) | |[github](https://github.com/he-y/filter-pruning-geometric-median)|
-| [On Implicit Filter Level Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1811.12495) | - | - | - |
-| [Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/abs/1903.03777) | CVPR | - | [github](https://github.com/lixincn2015/Partial-Order-Pruning) |
+| [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) | CVPR (Oral) | `F` |[github](https://github.com/he-y/filter-pruning-geometric-median)|
+| [Towards Optimal Structured CNN Pruning via Generative Adversarial Learning](https://arxiv.org/abs/1903.09291) | CVPR | `F` | [github](https://github.com/ShaohuiLin/GAL)  |
+| [Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837) | CVPR | `F` | [github](https://github.com/ShawnDing1994/Centripetal-SGD)|
+| [On Implicit Filter Level Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1811.12495) | CVPR | `F` | - |
+| [Structured Pruning of Neural Networks with Budget-Aware Regularization](https://arxiv.org/abs/1811.09332) | CVPR | `F` | -|
+| [Importance Estimation for Neural Network Pruning](http://jankautz.com/publications/Importance4NNPruning_CVPR19.pdf) | CVPR | `F` | -|
+| [Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/abs/1903.03777) | CVPR | `Other` | [github](https://github.com/lixincn2015/Partial-Order-Pruning) |
+| Variational Convolutional Neural Network Pruning | CVPR | - | -|
 
 
-  
+
 
 ### 2018
 
@@ -62,10 +58,6 @@ Add later.
 ### 2017
 
 Add later.
-
-### 2012-2016
-
-
 
 
   
