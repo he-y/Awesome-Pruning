@@ -39,9 +39,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
   
 
 |  Type |  `F` |  `W`  |   |  `Other` |
-
 |:------------|:--------------:|:----------------------:|:----------:|
-
 | Explanation | Filter pruning | Weight pruning | other types |
 
   
@@ -53,13 +51,9 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
   
 
 |  Title  | Venue  | Type | Code |
-
 |:--------|:--------:|:--------:|:--------:|
 | [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) | CVPR (Oral) | |[github](https://github.com/he-y/filter-pruning-geometric-median)|
-
-
 | [On Implicit Filter Level Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1811.12495) | - | - | - |
-
 | [Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/abs/1903.03777) | CVPR | - | [github](https://github.com/lixincn2015/Partial-Order-Pruning) |
 
 
