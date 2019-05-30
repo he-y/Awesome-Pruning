@@ -57,17 +57,40 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |  Title  | Venue  | Type | Code |
 |:--------|:--------:|:--------:|:--------:|
 | [Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/abs/1802.00124)| ICLR | `F` | [github](https://github.com/jack-willturner/batchnorm-pruning)|
+| [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)| ICLR | `W` | -|
+| [Amc: Automl for model compression and acceleration on mobile devices](https://arxiv.org/abs/1802.03494)| ECCV | `F` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
+|  [Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866)| IJCAI | `F` | [github](https://github.com/he-y/soft-filter-pruning)|
 
-  
 
 ### 2017
 
-Add later.
+|  Title  | Venue  | Type | Code |
+|:--------|:--------:|:--------:|:--------:|
+| [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)| ICLR | `F` | [github](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning)|
+|[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)| ICLR | `W` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
+|  [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128)|CVPR|`F` |-|
+|  [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342)|ICCV|`F` | [github](https://github.com/Roll920/ThiNet)|
+|  [Channel pruning for accelerating very deep neural networks](https://arxiv.org/abs/1707.06168)|ICCV|`F` | [github](https://github.com/yihui-he/channel-pruning)|
+| [Learning Efficient Convolutional Networks Through Network Slimming](https://arxiv.org/abs/1708.06519)|ICCV|`F` | [github](https://github.com/Eric-mingjie/network-slimming)|
 
 
-  
+### 2016
+
+|  Title  | Venue  | Type | Code |
+|:--------|:--------:|:--------:|:--------:|
+| [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) | ICLR (Best) | `W` | [github](https://github.com/songhan/Deep-Compression-AlexNet)|
+| [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) | NIPS | `W` | [github](https://github.com/yiwenguo/Dynamic-Network-Surgery)|
+
+### 2015
+|  Title  | Venue  | Type | Code |
+|:--------|:--------:|:--------:|:--------:|
+| [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) | NIPS | `W` |-|
+
+
 
 ## Related Repo
+[Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+
 [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 
 [Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
@@ -75,3 +98,4 @@ Add later.
 [knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers)
 
 [Network-Speed-and-Compression](https://github.com/mrgloom/Network-Speed-and-Compression)
+
