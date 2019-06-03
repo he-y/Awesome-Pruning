@@ -61,7 +61,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Amc: Automl for model compression and acceleration on mobile devices](https://arxiv.org/abs/1802.03494)| ECCV | `F` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
 | [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/abs/1707.01213)| ECCV | `F` | [github](https://github.com/TuSimple/sparse-structure-selection)|
 | [Coreset-Based Neural Network Compression](https://arxiv.org/abs/1807.09810) | ECCV | `F` | [github](https://github.com/metro-smiles/CNN_Compression)|
-|[Constraint-Aware Deep Neural Network Compression](http://www.sfu.ca/~ftung/papers/constraintaware_eccv18.pdf) | ECCV | `W` | [github](https://github.com/ChanganVR/ConstraintAwareCompressio)|
+|[Constraint-Aware Deep Neural Network Compression](http://www.sfu.ca/~ftung/papers/constraintaware_eccv18.pdf) | ECCV | `W` | [github](https://github.com/ChanganVR/ConstraintAwareCompression)|
 |[A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers](https://arxiv.org/abs/1804.03294)| ECCV | `W` | [github](https://github.com/KaiqiZhang/admm-pruning)|
 | [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/abs/1711.05769)| CVPR | `F` | [github](https://github.com/arunmallya/packnet)|
 | [NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/abs/1711.05908)| CVPR | `F` | -|
