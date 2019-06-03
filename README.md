@@ -59,6 +59,14 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/abs/1802.00124)| ICLR | `F` | [github](https://github.com/jack-willturner/batchnorm-pruning)|
 | [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)| ICLR | `W` | -|
 | [Amc: Automl for model compression and acceleration on mobile devices](https://arxiv.org/abs/1802.03494)| ECCV | `F` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
+| [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/abs/1707.01213)| ECCV | `F` | [github](https://github.com/TuSimple/sparse-structure-selection)|
+| [Coreset-Based Neural Network Compression](https://arxiv.org/abs/1807.09810) | ECCV | `F` | [github](https://github.com/metro-smiles/CNN_Compression)|
+|[Constraint-Aware Deep Neural Network Compression](http://www.sfu.ca/~ftung/papers/constraintaware_eccv18.pdf) | ECCV | `W` | [github](https://github.com/ChanganVR/ConstraintAwareCompressio)|
+|[A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers](https://arxiv.org/abs/1804.03294)| ECCV | `W` | [github](https://github.com/KaiqiZhang/admm-pruning)|
+| [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/abs/1711.05769)| CVPR | `F` | [github](https://github.com/arunmallya/packnet)|
+| [NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/abs/1711.05908)| CVPR | `F` | -|
+| [CLIP-Q: Deep Network Compression Learning by In-Parallel Pruning-Quantization](http://www.sfu.ca/~ftung/papers/clipq_cvpr18.pdf)| CVPR | `W` | -|
+| [“Learning-Compression” Algorithms for Neural Net Pruning](http://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf)| CVPR | `W` | -|
 |  [Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866)| IJCAI | `F` | [github](https://github.com/he-y/soft-filter-pruning)|
 
 
