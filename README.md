@@ -1,5 +1,6 @@
 
 
+
 # Awesome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
   
@@ -58,6 +59,8 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |:--------|:--------:|:--------:|:--------:|
 | [Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/abs/1802.00124)| ICLR | `F` | [github](https://github.com/jack-willturner/batchnorm-pruning)|
 | [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)| ICLR | `W` | -|
+| [Discrimination-aware Channel Pruning for Deep Neural Networks](https://arxiv.org/abs/1810.11809)| NIPS | `F` | [github](https://github.com/SCUT-AILab/DCP)|
+| [Frequency-Domain Dynamic Pruning for Convolutional Neural Networks](https://papers.nips.cc/paper/7382-frequency-domain-dynamic-pruning-for-convolutional-neural-networks.pdf)| NIPS | `W` | - |
 | [Amc: Automl for model compression and acceleration on mobile devices](https://arxiv.org/abs/1802.03494)| ECCV | `F` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
 | [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/abs/1707.01213)| ECCV | `F` | [github](https://github.com/TuSimple/sparse-structure-selection)|
 | [Coreset-Based Neural Network Compression](https://arxiv.org/abs/1807.09810) | ECCV | `F` | [github](https://github.com/metro-smiles/CNN_Compression)|
@@ -76,6 +79,9 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |:--------|:--------:|:--------:|:--------:|
 | [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)| ICLR | `F` | [github](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning)|
 |[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)| ICLR | `W` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
+|[Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee](https://arxiv.org/abs/1611.05162)| NIPS | `W` | [github](https://github.com/DNNToolBox/Net-Trim-v1)|
+|[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](https://arxiv.org/abs/1705.07565)| NIPS | `W` | [github](https://github.com/csyhhu/L-OBS)|
+|[Runtime Neural Pruning](https://papers.nips.cc/paper/6813-runtime-neural-pruning) | NIPS | `F` |  - |
 |  [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128)|CVPR|`F` |-|
 |  [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342)|ICCV|`F` | [github](https://github.com/Roll920/ThiNet)|
 |  [Channel pruning for accelerating very deep neural networks](https://arxiv.org/abs/1707.06168)|ICCV|`F` | [github](https://github.com/yihui-he/channel-pruning)|
@@ -98,6 +104,10 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 ## Related Repo
 [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+
+[EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs)
+
+[Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
 
 [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 
