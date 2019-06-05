@@ -50,8 +50,9 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270) | ICLR | `F` | [github](https://github.com/Eric-mingjie/rethinking-network-pruning)|
 | [Dynamic Channel Pruning: Feature Boosting and Suppression](https://arxiv.org/abs/1810.05331)| ICLR | `F` | [github](https://github.com/deep-fry/mayo)|
 | [SNIP: Single-shot Network Pruning based on Connection Sensitivity](https://arxiv.org/abs/1810.02340)| ICLR | `F` | [github](https://github.com/namhoonlee/snip-public)|
-
-
+| [Collaborative Channel Pruning for Deep Networks](http://proceedings.mlr.press/v97/peng19c.html)| ICML | `F` | -|
+| [Approximated Oracle Filter Pruning for Destructive CNN Width Optimization github](https://arxiv.org/abs/1905.04748)| ICML | `F` | -|
+| [EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis4](https://arxiv.org/abs/1905.05934)| ICML | `W` | [github](https://github.com/alecwangcq/EigenDamage-Pytorch)|
 
 
 ### 2018
