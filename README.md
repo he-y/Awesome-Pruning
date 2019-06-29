@@ -46,7 +46,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Importance Estimation for Neural Network Pruning](http://jankautz.com/publications/Importance4NNPruning_CVPR19.pdf) | CVPR | `F` | -|
 | [Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/abs/1903.03777) | CVPR | `Other` | [github](https://github.com/lixincn2015/Partial-Order-Pruning) |
 | Variational Convolutional Neural Network Pruning | CVPR | - | -|
-| [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) | ICLR **(Best)** | `F` | [github](https://github.com/google-research/lottery-ticket-hypothesis)|
+| [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) | ICLR **(Best)** | `W` | [github](https://github.com/google-research/lottery-ticket-hypothesis)|
 | [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270) | ICLR | `F` | [github](https://github.com/Eric-mingjie/rethinking-network-pruning)|
 | [Dynamic Channel Pruning: Feature Boosting and Suppression](https://arxiv.org/abs/1810.05331)| ICLR | `F` | [github](https://github.com/deep-fry/mayo)|
 | [SNIP: Single-shot Network Pruning based on Connection Sensitivity](https://arxiv.org/abs/1810.02340)| ICLR | `F` | [github](https://github.com/namhoonlee/snip-public)|
