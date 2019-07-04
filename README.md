@@ -99,7 +99,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 ### 2015
 |  Title  | Venue  | Type | Code |
 |:--------|:--------:|:--------:|:--------:|
-| [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) | NIPS | `W` |-|
+| [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) | NIPS | `W` |https://github.com/jack-willturner/DeepCompression-PyTorch|
 
 
 
