@@ -82,7 +82,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |  Title  | Venue  | Type | Code |
 |:--------|:--------:|:--------:|:--------:|
 | [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)| ICLR | `F` | [github](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning)|
-|[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)| ICLR | `W` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
+|[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)| ICLR | `F` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
 |[Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee](https://arxiv.org/abs/1611.05162)| NIPS | `W` | [github](https://github.com/DNNToolBox/Net-Trim-v1)|
 |[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](https://arxiv.org/abs/1705.07565)| NIPS | `W` | [github](https://github.com/csyhhu/L-OBS)|
 |[Runtime Neural Pruning](https://papers.nips.cc/paper/6813-runtime-neural-pruning) | NIPS | `F` |  - |
