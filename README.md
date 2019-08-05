@@ -2,6 +2,7 @@
 
 
 
+
 # Awesome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
   
@@ -42,7 +43,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) | CVPR **(Oral)** | `F` |[github](https://github.com/he-y/filter-pruning-geometric-median)|
 | [Towards Optimal Structured CNN Pruning via Generative Adversarial Learning](https://arxiv.org/abs/1903.09291) | CVPR | `F` | [github](https://github.com/ShaohuiLin/GAL)  |
 | [Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837) | CVPR | `F` | [github](https://github.com/ShawnDing1994/Centripetal-SGD)|
-| [On Implicit Filter Level Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1811.12495) | CVPR | `F` | - |
+| [On Implicit Filter Level Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1811.12495), [Extension1](https://arxiv.org/abs/1905.04967), [Extension2](https://openreview.net/forum?id=rylVvNS3hE) | CVPR | `F` | [github](https://github.com/mehtadushy/SelecSLS-Pytorch) |
 | [Structured Pruning of Neural Networks with Budget-Aware Regularization](https://arxiv.org/abs/1811.09332) | CVPR | `F` | -|
 | [Importance Estimation for Neural Network Pruning](http://jankautz.com/publications/Importance4NNPruning_CVPR19.pdf) | CVPR | `F` | [github](https://github.com/NVlabs/Taylor_pruning)|
 | [OICSR: Out-In-Channel Sparsity Regularization for Compact Deep Neural Networks](https://arxiv.org/abs/1905.11664) | CVPR | `F` |  - |
