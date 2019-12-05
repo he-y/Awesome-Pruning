@@ -76,6 +76,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [CLIP-Q: Deep Network Compression Learning by In-Parallel Pruning-Quantization](http://www.sfu.ca/~ftung/papers/clipq_cvpr18.pdf)| CVPR | `W` | -|
 | [“Learning-Compression” Algorithms for Neural Net Pruning](http://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf)| CVPR | `W` | -|
 |  [Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866)| IJCAI | `F` | [github](https://github.com/he-y/soft-filter-pruning)|
+|  [Accelerating Convolutional Networks via Global & Dynamic Filter Pruning](https://www.ijcai.org/proceedings/2018/0336.pdf)| IJCAI | `F` | -|
 
 
 ### 2017
