@@ -40,6 +40,15 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 |  Title  | Venue  | Type | Code |
 |:--------|:--------:|:--------:|:--------:|
+| [Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174) | NeurIPS | `F` |[github](https://github.com/youzhonghui/gate-decorator-pruning)|
+| [Network Pruning via Transformable Architecture Search](https://arxiv.org/abs/1905.09717) | NeurIPS | `F` |[github](https://github.com/D-X-Y/NAS-Projects)|
+| [Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://arxiv.org/abs/1909.12778)  | NeurIPS | `W` |[github](https://github.com/DingXiaoH/GSM-SGD)|
+| [AutoPrune: Automatic Network Pruning by Regularizing Auxiliary Parameters](https://papers.nips.cc/paper/9521-autoprune-automatic-network-pruning-by-regularizing-auxiliary-parameters)  | NeurIPS | `W` | - |
+| [Model Compression with Adversarial Robustness: A Unified Optimization Framework](https://arxiv.org/abs/1902.03538)  | NeurIPS | `Other` | [github](https://github.com/TAMU-VITA/ATMC) |
+| [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258)  | ICCV | `F` | [github](https://github.com/liuzechun/MetaPruning) |
+| [Accelerate CNN via Recursive Bayesian Pruning](https://arxiv.org/abs/1812.00353)  | ICCV | `F` | [github](https://github.com/liuzechun/MetaPruning) |
+| [Adversarial Robustness vs Model Compression, or Both?](https://arxiv.org/abs/1903.12561)  | ICCV | `W` | [github](https://github.com/yeshaokai/Robustness-Aware-Pruning-ADMM) |
+| [Learning Filter Basis for Convolutional Neural Network Compression](https://arxiv.org/abs/1908.08932)  | ICCV | `Other` | - |
 | [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) | CVPR **(Oral)** | `F` |[github](https://github.com/he-y/filter-pruning-geometric-median)|
 | [Towards Optimal Structured CNN Pruning via Generative Adversarial Learning](https://arxiv.org/abs/1903.09291) | CVPR | `F` | [github](https://github.com/ShaohuiLin/GAL)  |
 | [Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837) | CVPR | `F` | [github](https://github.com/ShawnDing1994/Centripetal-SGD)|
@@ -64,8 +73,8 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |:--------|:--------:|:--------:|:--------:|
 | [Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/abs/1802.00124)| ICLR | `F` | [github](https://github.com/jack-willturner/batchnorm-pruning)|
 | [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)| ICLR | `W` | -|
-| [Discrimination-aware Channel Pruning for Deep Neural Networks](https://arxiv.org/abs/1810.11809)| NIPS | `F` | [github](https://github.com/SCUT-AILab/DCP)|
-| [Frequency-Domain Dynamic Pruning for Convolutional Neural Networks](https://papers.nips.cc/paper/7382-frequency-domain-dynamic-pruning-for-convolutional-neural-networks.pdf)| NIPS | `W` | - |
+| [Discrimination-aware Channel Pruning for Deep Neural Networks](https://arxiv.org/abs/1810.11809)| NeurIPS | `F` | [github](https://github.com/SCUT-AILab/DCP)|
+| [Frequency-Domain Dynamic Pruning for Convolutional Neural Networks](https://papers.NeurIPS.cc/paper/7382-frequency-domain-dynamic-pruning-for-convolutional-neural-networks.pdf)| NeurIPS | `W` | - |
 | [Amc: Automl for model compression and acceleration on mobile devices](https://arxiv.org/abs/1802.03494)| ECCV | `F` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
 | [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/abs/1707.01213)| ECCV | `F` | [github](https://github.com/TuSimple/sparse-structure-selection)|
 | [Coreset-Based Neural Network Compression](https://arxiv.org/abs/1807.09810) | ECCV | `F` | [github](https://github.com/metro-smiles/CNN_Compression)|
@@ -85,9 +94,9 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |:--------|:--------:|:--------:|:--------:|
 | [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)| ICLR | `F` | [github](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning)|
 |[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)| ICLR | `F` | [github](https://github.com/Tencent/PocketFlow#channel-pruning)|
-|[Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee](https://arxiv.org/abs/1611.05162)| NIPS | `W` | [github](https://github.com/DNNToolBox/Net-Trim-v1)|
-|[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](https://arxiv.org/abs/1705.07565)| NIPS | `W` | [github](https://github.com/csyhhu/L-OBS)|
-|[Runtime Neural Pruning](https://papers.nips.cc/paper/6813-runtime-neural-pruning) | NIPS | `F` |  - |
+|[Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee](https://arxiv.org/abs/1611.05162)| NeurIPS | `W` | [github](https://github.com/DNNToolBox/Net-Trim-v1)|
+|[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](https://arxiv.org/abs/1705.07565)| NeurIPS | `W` | [github](https://github.com/csyhhu/L-OBS)|
+|[Runtime Neural Pruning](https://papers.NeurIPS.cc/paper/6813-runtime-neural-pruning) | NeurIPS | `F` |  - |
 |  [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128)|CVPR|`F` |-|
 |  [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342)|ICCV|`F` | [github](https://github.com/Roll920/ThiNet)|
 |  [Channel pruning for accelerating very deep neural networks](https://arxiv.org/abs/1707.06168)|ICCV|`F` | [github](https://github.com/yihui-he/channel-pruning)|
@@ -99,12 +108,12 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |  Title  | Venue  | Type | Code |
 |:--------|:--------:|:--------:|:--------:|
 | [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) | ICLR **(Best)** | `W` | [github](https://github.com/songhan/Deep-Compression-AlexNet)|
-| [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) | NIPS | `W` | [github](https://github.com/yiwenguo/Dynamic-Network-Surgery)|
+| [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) | NeurIPS | `W` | [github](https://github.com/yiwenguo/Dynamic-Network-Surgery)|
 
 ### 2015
 |  Title  | Venue  | Type | Code |
 |:--------|:--------:|:--------:|:--------:|
-| [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) | NIPS | `W` |[github](https://github.com/jack-willturner/DeepCompression-PyTorch)|
+| [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) | NeurIPS | `W` |[github](https://github.com/jack-willturner/DeepCompression-PyTorch)|
 
 
 
