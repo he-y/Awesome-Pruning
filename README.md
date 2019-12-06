@@ -40,8 +40,10 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 |  Title  | Venue  | Type | Code |
 |:--------|:--------:|:--------:|:--------:|
-| [Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174) | NeurIPS | `F` |[github](https://github.com/youzhonghui/gate-decorator-pruning)|
 | [Network Pruning via Transformable Architecture Search](https://arxiv.org/abs/1905.09717) | NeurIPS | `F` |[github](https://github.com/D-X-Y/NAS-Projects)|
+| [Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174) | NeurIPS | `F` |[github](https://github.com/youzhonghui/gate-decorator-pruning)|
+| [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/abs/1905.01067)  | NeurIPS | `W` |[github](https://github.com/uber-research/deconstructing-lottery-tickets)|
+| [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)  | NeurIPS | `W` |-|
 | [Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://arxiv.org/abs/1909.12778)  | NeurIPS | `W` |[github](https://github.com/DingXiaoH/GSM-SGD)|
 | [AutoPrune: Automatic Network Pruning by Regularizing Auxiliary Parameters](https://papers.nips.cc/paper/9521-autoprune-automatic-network-pruning-by-regularizing-auxiliary-parameters)  | NeurIPS | `W` | - |
 | [Model Compression with Adversarial Robustness: A Unified Optimization Framework](https://arxiv.org/abs/1902.03538)  | NeurIPS | `Other` | [github](https://github.com/TAMU-VITA/ATMC) |
