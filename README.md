@@ -30,6 +30,13 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389) | ICLR **(Oral)** | `WF`     | [TensorFlow(Author)](https://github.com/lottery-ticket/code)   |
+| [A Signal Propagation Perspective for Pruning Neural Networks at Initialization](https://arxiv.org/abs/1906.06307) | ICLR **(Spotlight)** | `W`     | -  |
+| [One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation](https://arxiv.org/abs/1912.00120) | ICLR   | `W`     | -  |
+| [Lookahead: A Far-sighted Alternative of Magnitude-based Pruning](https://arxiv.org/abs/2002.04809) | ICLR   | `W`     | [PyTorch(Author)](https://github.com/alinlab/lookahead_pruning)  |
+| [Dynamic Model Pruning with Feedback](https://openreview.net/forum?id=SJem8lSFwB) | ICLR   | `WF`     | -  |
+| [Provable Filter Pruning for Efficient Neural Networks](https://arxiv.org/abs/1911.07412) | ICLR   | `F`     | -  |
+| [Data-Independent Neural Pruning via Coresets](https://arxiv.org/abs/1907.04018) | ICLR  | `W`     | -    |
 | [AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates](https://arxiv.org/abs/1907.03141) | AAAI  | `F`     | -    |
 | [DARB: A Density-Aware Regular-Block Pruning for Deep Neural Networks](http://arxiv.org/abs/1911.08020)                          | AAAI  | `Other` | -    |
 | [Pruning from Scratch](http://arxiv.org/abs/1909.12579)                                                                          | AAAI  | `Other` | -    |
@@ -71,7 +78,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 | Title    | Venue       | Type    | Code     |
 |:-------|:--------:|:-------:|:-------:|
-| [Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/abs/1802.00124)                                              | ICLR    | `F`  | [TensorFlow, Author](https://github.com/bobye/batchnorm_prune), [PyTorch(3rd)](https://github.com/jack-willturner/batchnorm-pruning) |
+| [Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/abs/1802.00124)                                              | ICLR    | `F`  | [TensorFlow(Author)](https://github.com/bobye/batchnorm_prune), [PyTorch(3rd)](https://github.com/jack-willturner/batchnorm-pruning) |
 | [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)                                                            | ICLR    | `W`  | -                                                                                                                                    |
 | [Discrimination-aware Channel Pruning for Deep Neural Networks](https://arxiv.org/abs/1810.11809)                                                                                 | NeurIPS | `F`  | [TensorFlow(Author)](https://github.com/SCUT-AILab/DCP)                                                                              |
 | [Frequency-Domain Dynamic Pruning for Convolutional Neural Networks](https://papers.NeurIPS.cc/paper/7382-frequency-domain-dynamic-pruning-for-convolutional-neural-networks.pdf) | NeurIPS | `W`  | -                                                                                                                                    |
