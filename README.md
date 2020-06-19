@@ -30,13 +30,26 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| [Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) | CVPR | `F`     | [Pytorch(Author)](https://github.com/cmu-enyac/LeGR)   |
-| [HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/abs/2002.10179) | CVPR | `F`     | [Pytorch(Author)](https://github.com/lmbxmu/HRank)   |
-| [Neural Network Pruning with Residual-Connections and Limited-Data](https://arxiv.org/abs/1911.08114) | CVPR | `F`     | -  |
-| [DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://arxiv.org/abs/2005.03354) | CVPR | `F`     | [TensorFlow(Author)](https://github.com/zx55/dmcp)   |
+| [Channel Pruning via Automatic Structure Search](https://arxiv.org/abs/2001.08565) | IJCAI | `W`     | [PyTorch(Author)](https://github.com/lmbxmu/ABCPruner)   |
+| [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355) | ICML | `W`     | -   |
+| [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585) | ICML | `W`     | -   |
+| [Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794) | ICML | `F`     | -   |
+| Operation-Aware Soft Channel Pruning using Differentiable Masks | ICML | `F`     | -   |
+| DropNet: Reducing Neural Network Complexity via Iterative Pruning | ICML | `F`     | -   |
+| [Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) | CVPR  **(Oral)**| `F`     | [Pytorch(Author)](https://github.com/cmu-enyac/LeGR)   |
+| [HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/abs/2002.10179) | CVPR **(Oral)** | `F`     | [Pytorch(Author)](https://github.com/lmbxmu/HRank)   |
+| [Neural Network Pruning with Residual-Connections and Limited-Data](https://arxiv.org/abs/1911.08114) | CVPR **(Oral)** | `F`     | -  |
+| [Multi-Dimensional Pruning: A Unified Framework for Model Compression](http://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Multi-Dimensional_Pruning_A_Unified_Framework_for_Model_Compression_CVPR_2020_paper.html) | CVPR **(Oral)** | `WF`     | -  |
+| [DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://arxiv.org/abs/2005.03354) | CVPR **(Oral)** | `F`     | [TensorFlow(Author)](https://github.com/zx55/dmcp)   |
 | [Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://arxiv.org/abs/2003.08935) | CVPR | `F`     | [PyTorch(Author)](https://github.com/ofsoundof/group_sparsity)   |
+| [Few Sample Knowledge Distillation for Efficient Network Compression](https://arxiv.org/abs/1812.01839) | CVPR   | `F`     | -  |
+| [Discrete Model Compression With Resource Constraint for Deep Neural Networks](http://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Discrete_Model_Compression_With_Resource_Constraint_for_Deep_Neural_Networks_CVPR_2020_paper.html) | CVPR   | `F`     | -  |
+| [Structured Compression by Weight Encryption for Unstructured Pruning and Quantization](https://arxiv.org/abs/1905.10138) | CVPR   | `W`     | -  |
+| [Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](http://openaccess.thecvf.com/content_CVPR_2020/html/He_Learning_Filter_Pruning_Criteria_for_Deep_Convolutional_Neural_Networks_Acceleration_CVPR_2020_paper.html) | CVPR   | `F`     | -  |
+| [APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://arxiv.org/abs/2006.08509l) | CVPR   | `F`     | -  |
 | [Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389) | ICLR **(Oral)** | `WF`     | [TensorFlow(Author)](https://github.com/lottery-ticket/code)   |
 | [A Signal Propagation Perspective for Pruning Neural Networks at Initialization](https://arxiv.org/abs/1906.06307) | ICLR **(Spotlight)** | `W`     | -  |
+| [ProxSGD: Training Structured Neural Networks under Regularization and Constraints](https://openreview.net/forum?id=HygpthEtvr) | ICLR   | `W`     | [TensorFlow(Author)](https://github.com/optyang/proxsgd)  |
 | [One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation](https://arxiv.org/abs/1912.00120) | ICLR   | `W`     | -  |
 | [Lookahead: A Far-sighted Alternative of Magnitude-based Pruning](https://arxiv.org/abs/2002.04809) | ICLR   | `W`     | [PyTorch(Author)](https://github.com/alinlab/lookahead_pruning)  |
 | [Dynamic Model Pruning with Feedback](https://openreview.net/forum?id=SJem8lSFwB) | ICLR   | `WF`     | -  |
