@@ -49,7 +49,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://arxiv.org/abs/2006.08509l) | CVPR   | `F`     | -  |
 | [Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389) | ICLR **(Oral)** | `WF`     | [TensorFlow(Author)](https://github.com/lottery-ticket/code)   |
 | [A Signal Propagation Perspective for Pruning Neural Networks at Initialization](https://arxiv.org/abs/1906.06307) | ICLR **(Spotlight)** | `W`     | -  |
-| [ProxSGD: Training Structured Neural Networks under Regularization and Constraints](https://openreview.net/forum?id=HygpthEtvr) | ICLR   | `W`     | [TensorFlow(Author)](https://github.com/optyang/proxsgd)  |
+| [ProxSGD: Training Structured Neural Networks under Regularization and Constraints](https://openreview.net/forum?id=HygpthEtvr) | ICLR   | `W`     | [TF+PT(Author)](https://github.com/optyang/proxsgd)  |
 | [One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation](https://arxiv.org/abs/1912.00120) | ICLR   | `W`     | -  |
 | [Lookahead: A Far-sighted Alternative of Magnitude-based Pruning](https://arxiv.org/abs/2002.04809) | ICLR   | `W`     | [PyTorch(Author)](https://github.com/alinlab/lookahead_pruning)  |
 | [Dynamic Model Pruning with Feedback](https://openreview.net/forum?id=SJem8lSFwB) | ICLR   | `WF`     | -  |
