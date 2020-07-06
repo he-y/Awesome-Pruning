@@ -30,7 +30,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| [Channel Pruning via Automatic Structure Search](https://arxiv.org/abs/2001.08565) | IJCAI | `W`     | [PyTorch(Author)](https://github.com/lmbxmu/ABCPruner)   |
+| [Channel Pruning via Automatic Structure Search](https://arxiv.org/abs/2001.08565) | IJCAI | `F`     | [PyTorch(Author)](https://github.com/lmbxmu/ABCPruner)   |
 | [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355) | ICML | `W`     | -   |
 | [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585) | ICML | `W`     | -   |
 | [Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794) | ICML | `F`     | -   |
