@@ -47,7 +47,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Structured Compression by Weight Encryption for Unstructured Pruning and Quantization](https://arxiv.org/abs/1905.10138) | CVPR   | `W`     | -  |
 | [Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](http://openaccess.thecvf.com/content_CVPR_2020/html/He_Learning_Filter_Pruning_Criteria_for_Deep_Convolutional_Neural_Networks_Acceleration_CVPR_2020_paper.html) | CVPR   | `F`     | -  |
 | [APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://arxiv.org/abs/2006.08509l) | CVPR   | `F`     | -  |
-| [Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389) | ICLR **(Oral)** | `WF`     | [TensorFlow(Author)](https://github.com/lottery-ticket/code)   |
+| [Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389) | ICLR **(Oral)** | `WF`     | [TensorFlow(Author)](https://github.com/lottery-ticket/rewinding-iclr20-public)   |
 | [A Signal Propagation Perspective for Pruning Neural Networks at Initialization](https://arxiv.org/abs/1906.06307) | ICLR **(Spotlight)** | `W`     | -  |
 | [ProxSGD: Training Structured Neural Networks under Regularization and Constraints](https://openreview.net/forum?id=HygpthEtvr) | ICLR   | `W`     | [TF+PT(Author)](https://github.com/optyang/proxsgd)  |
 | [One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation](https://arxiv.org/abs/1912.00120) | ICLR   | `W`     | -  |
