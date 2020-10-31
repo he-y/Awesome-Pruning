@@ -30,13 +30,20 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning](https://arxiv.org/abs/2007.02491) | ECCV **(Oral)** | `F`     | [PyTorch(Author)](https://github.com/anonymous47823493/EagleEye)   |
+| [DSA: More Efficient Budgeted Pruning via Differentiable Sparsity Allocation](https://arxiv.org/abs/2004.02164) | ECCV  | `F`     |- |
+| [DHP: Differentiable Meta Pruning via HyperNetworks](https://arxiv.org/abs/2003.13683) | ECCV  | `F`     |PyTorch(Author)](https://github.com/ofsoundof/dhp)  |
+| [Meta-Learning with Network Pruning](https://arxiv.org/abs/2007.03219) | ECCV  | `W`     | - |
+| [Accelerating CNN Training by Pruning Activation Gradients](https://arxiv.org/abs/1908.00173) | ECCV  | `W`     | - |
+| [DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search](https://arxiv.org/abs/2003.12563) | ECCV  | `Other`     | - |
+| [Differentiable Joint Pruning and Quantization for Hardware Efficiency](https://arxiv.org/abs/2007.10463) | ECCV  | `Other`     | - |
 | [Channel Pruning via Automatic Structure Search](https://arxiv.org/abs/2001.08565) | IJCAI | `F`     | [PyTorch(Author)](https://github.com/lmbxmu/ABCPruner)   |
 | [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355) | ICML | `W`     | -   |
 | [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585) | ICML | `W`     | -   |
 | [Soft Threshold Weight Reparameterization for Learnable Sparsity](https://arxiv.org/abs/2002.03231) | ICML | `WF`     | [Pytorch(Author)](https://github.com/RAIVNLab/STR)   |
 | [Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794) | ICML | `F`     | -   |
-| Operation-Aware Soft Channel Pruning using Differentiable Masks | ICML | `F`     | -   |
-| DropNet: Reducing Neural Network Complexity via Iterative Pruning | ICML | `F`     | -   |
+| [Operation-Aware Soft Channel Pruning using Differentiable Masks](https://arxiv.org/abs/2007.03938) | ICML | `F`     | -   |
+| [DropNet: Reducing Neural Network Complexity via Iterative Pruning](https://proceedings.icml.cc/static/paper_files/icml/2020/2026-Paper.pdf) | ICML | `F`     | -   |
 | [Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) | CVPR  **(Oral)**| `F`     | [Pytorch(Author)](https://github.com/cmu-enyac/LeGR)   |
 | [HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/abs/2002.10179) | CVPR **(Oral)** | `F`     | [Pytorch(Author)](https://github.com/lmbxmu/HRank)   |
 | [Neural Network Pruning with Residual-Connections and Limited-Data](https://arxiv.org/abs/1911.08114) | CVPR **(Oral)** | `F`     | -  |
