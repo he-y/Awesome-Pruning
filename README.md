@@ -32,7 +32,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
 | [EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning](https://arxiv.org/abs/2007.02491) | ECCV **(Oral)** | `F`     | [PyTorch(Author)](https://github.com/anonymous47823493/EagleEye)   |
 | [DSA: More Efficient Budgeted Pruning via Differentiable Sparsity Allocation](https://arxiv.org/abs/2004.02164) | ECCV  | `F`     |- |
-| [DHP: Differentiable Meta Pruning via HyperNetworks](https://arxiv.org/abs/2003.13683) | ECCV  | `F`     |PyTorch(Author)](https://github.com/ofsoundof/dhp)  |
+| [DHP: Differentiable Meta Pruning via HyperNetworks](https://arxiv.org/abs/2003.13683) | ECCV  | `F`     |[PyTorch(Author)](https://github.com/ofsoundof/dhp)  |
 | [Meta-Learning with Network Pruning](https://arxiv.org/abs/2007.03219) | ECCV  | `W`     | - |
 | [Accelerating CNN Training by Pruning Activation Gradients](https://arxiv.org/abs/1908.00173) | ECCV  | `W`     | - |
 | [DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search](https://arxiv.org/abs/2003.12563) | ECCV  | `Other`     | - |
