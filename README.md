@@ -30,6 +30,20 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [HYDRA: Pruning Adversarially Robust Neural Networks](https://arxiv.org/abs/2002.10509) | NeurIPS | `W`     | [PyTorch(Author)](https://github.com/inspire-group/hydra)   |
+| [Logarithmic Pruning is All You Need](https://arxiv.org/abs/2006.12156) | NeurIPS | `W`     | -   |
+| [Directional Pruning of Deep Neural Networks](https://arxiv.org/abs/2006.09358) | NeurIPS | `W`     |  - |
+| [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683) | NeurIPS | `W`     | [PyTorch(Author)](https://github.com/huggingface/block_movement_pruning) |
+| [Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://arxiv.org/abs/2009.11094) | NeurIPS | `W`     | [PyTorch(Author)](https://github.com/JingtongSu/sanity-checking-pruning) |
+| [Neuron Merging: Compensating for Pruned Neurons](https://arxiv.org/abs/2010.13160) | NeurIPS | `F`     | [PyTorch(Author)](https://github.com/friendshipkim/neuron-merging)  |
+| [Neuron-level Structured Pruning using Polarization Regularizer](https://papers.nips.cc/paper/2020/file/703957b6dd9e3a7980e040bee50ded65-Paper.pdf) | NeurIPS | `F`     |  [PyTorch(Author)](https://github.com/polarizationpruning/PolarizationPruning)   |
+| [SCOP: Scientific Control for Reliable Neural Network Pruning](https://arxiv.org/abs/2010.10732) | NeurIPS | `F`     |  - |
+| [Storage Efficient and Dynamic Flexible Runtime Channel Pruning via Deep Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/a914ecef9c12ffdb9bede64bb703d877-Abstract.html) | NeurIPS | `F`     |  - |
+| [The Generalization-Stability Tradeoff In Neural Network Pruning](https://arxiv.org/abs/1906.03728) | NeurIPS | `F`     | [PyTorch(Author)](https://github.com/Jangho-Kim/PSG-pytorch) |
+| [Pruning Filter in Filter](https://arxiv.org/abs/2009.14410) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/fxmeng/Pruning-Filter-in-Filter)   |
+| [Position-based Scaled Gradient for Model Quantization and Pruning](https://arxiv.org/abs/2005.11035) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/Jangho-Kim/PSG-pytorch) |
+| [Bayesian Bits: Unifying Quantization and Pruning](https://arxiv.org/abs/2005.07093) | NeurIPS | `Other`     | -  |
+| [Pruning neural networks without any data by iteratively conserving synaptic flow](https://arxiv.org/abs/2006.05467) | NeurIPS | `Other`     |  [PyTorch(Author)](https://github.com/ganguli-lab/Synaptic-Flow)   |
 | [EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning](https://arxiv.org/abs/2007.02491) | ECCV **(Oral)** | `F`     | [PyTorch(Author)](https://github.com/anonymous47823493/EagleEye)   |
 | [DSA: More Efficient Budgeted Pruning via Differentiable Sparsity Allocation](https://arxiv.org/abs/2004.02164) | ECCV  | `F`     |- |
 | [DHP: Differentiable Meta Pruning via HyperNetworks](https://arxiv.org/abs/2003.13683) | ECCV  | `F`     |[PyTorch(Author)](https://github.com/ofsoundof/dhp)  |
@@ -99,6 +113,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Collaborative Channel Pruning for Deep Networks](http://proceedings.mlr.press/v97/peng19c.html)                                                                                                                 | ICML            | `F`     | -                                                                                     |
 | [Approximated Oracle Filter Pruning for Destructive CNN Width Optimization github](https://arxiv.org/abs/1905.04748)                                                                                             | ICML            | `F`     | -                                                                                     |
 | [EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis4](https://arxiv.org/abs/1905.05934)                                                                                                        | ICML            | `W`     | [PyTorch(Author)](https://github.com/alecwangcq/EigenDamage-Pytorch)                  |
+| [COP: Customized Deep Model Compression via Regularized Correlation-Based Filter-Level Pruning](https://arxiv.org/abs/1906.10337)                                                                                                        | IJCAI            | `F`     | [Tensorflow(Author)](https://github.com/ZJULearning/COP)                  |
 
 ### 2018
 
