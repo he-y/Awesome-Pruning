@@ -31,6 +31,18 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [A Probabilistic Approach to Neural Network Pruning](https://arxiv.org/abs/2105.10065) | ICML | `F`     | -   |
+| [Accelerate CNNs from Three Dimensions: A Comprehensive Pruning Framework](https://arxiv.org/abs/2010.04879) | ICML | `F`     | -  |
+| [Group Fisher Pruning for Practical Network Compression](https://arxiv.org/abs/2108.00708) | ICML | `F`     | [PyTorch(Author)](https://github.com/jshilong/FisherPruning)   |
+| [On the Predictability of Pruning Across Scales](https://arxiv.org/abs/2006.10621) | ICML | `W`     | -   |
+| [Towards Compact CNNs via Collaborative Compression](https://arxiv.org/abs/2105.11228) | CVPR | `F`     | [PyTorch(Author)](https://github.com/liuguoyou/Towards-Compact-CNNs-via-Collaborative-Compression)   |
+| [Content-Aware GAN Compression](https://arxiv.org/abs/2104.02244) | CVPR | `F`     | [PyTorch(Author)](https://github.com/lychenyoko/content-aware-gan-compression)   |
+| [Permute, Quantize, and Fine-tune: Efficient Compression of Neural Networks](https://arxiv.org/abs/2010.15703) | CVPR | `F`     | [PyTorch(Author)](https://github.com/uber-research/permute-quantize-finetune)   |
+| [NPAS: A Compiler-aware Framework of Unified Network Pruning andArchitecture Search for Beyond Real-Time Mobile Acceleration](https://arxiv.org/abs/2012.00596) | CVPR | `F`     | -  |
+| [Network Pruning via Performance Maximization](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Network_Pruning_via_Performance_Maximization_CVPR_2021_paper.pdf) | CVPR | `F`     | -  |
+| [Convolutional Neural Network Pruning with Structural Redundancy Reduction](https://arxiv.org/abs/2104.03438) | CVPR | `F`     |-|
+| [Manifold Regularized Dynamic Network Pruning](https://arxiv.org/abs/2103.05861) | CVPR | `F`     | -  |
+| [Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation](https://arxiv.org/abs/2105.12971) | CVPR | `FO`     | -  |
 | [A Gradient Flow Framework For Analyzing Network Pruning](https://openreview.net/forum?id=rumv7QmLUue) | ICLR | `F`     | [PyTorch(Author)](https://github.com/EkdeepSLubana/flowandprune)   |
 | [Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA) | ICLR | `F`     | [PyTorch(Author)](https://github.com/MingSun-Tse/Regularization-Pruning)   |
 | [ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations](https://openreview.net/forum?id=xCxXwTzx4L1) | ICLR | `F`     | [PyTorch(Author)](https://github.com/transmuteAI/ChipNet)   |
@@ -39,7 +51,6 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Layer-adaptive Sparsity for the Magnitude-based Pruning](https://openreview.net/forum?id=H6ATjJ0TKdf) | ICLR | `W`     | [PyTorch(Author)](https://github.com/jaeho-lee/layer-adaptive-sparsity)   |
 | [Pruning Neural Networks at Initialization: Why Are We Missing the Mark?](https://openreview.net/forum?id=Ig-VyQc-MLK) | ICLR | `W`     | - |
 | [Robust Pruning at Initialization](https://openreview.net/forum?id=vXj_ucZQ4hA) | ICLR | `W`     |  -  |
-
 
 ### 2020
 
