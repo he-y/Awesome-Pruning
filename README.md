@@ -7,6 +7,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 ## Table of Contents
 
 - [Type of Pruning](#type-of-pruning)
+- [2021 Venues](#2021)
 
 - [2020 Venues](#2020)
 
@@ -25,6 +26,20 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | Type        | `F`            | `W`            | `Other`     |
 |:----------- |:--------------:|:--------------:|:-----------:|
 | Explanation | Filter pruning | Weight pruning | other types |
+
+### 2021
+
+| Title                                                                                                                            | Venue | Type    | Code |
+|:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [A Gradient Flow Framework For Analyzing Network Pruning](https://openreview.net/forum?id=rumv7QmLUue) | ICLR | `F`     | [PyTorch(Author)](https://github.com/EkdeepSLubana/flowandprune)   |
+| [Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA) | ICLR | `F`     | [PyTorch(Author)](https://github.com/MingSun-Tse/Regularization-Pruning)   |
+| [ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations](https://openreview.net/forum?id=xCxXwTzx4L1) | ICLR | `F`     | [PyTorch(Author)](https://github.com/transmuteAI/ChipNet)   |
+| [Network Pruning That Matters: A Case Study on Retraining Variants](https://openreview.net/forum?id=Cb54AMqHQFP) | ICLR | `F`     | [PyTorch(Author)](https://github.com/lehduong/NPTM)   |
+| [Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv) | ICLR | `W`     | [PyTorch(Author)](https://github.com/chrundle/biprop)   |
+| [Layer-adaptive Sparsity for the Magnitude-based Pruning](https://openreview.net/forum?id=H6ATjJ0TKdf) | ICLR | `W`     | [PyTorch(Author)](https://github.com/jaeho-lee/layer-adaptive-sparsity)   |
+| [Pruning Neural Networks at Initialization: Why Are We Missing the Mark?](https://openreview.net/forum?id=Ig-VyQc-MLK) | ICLR | `W`     | - |
+| [Robust Pruning at Initialization](https://openreview.net/forum?id=vXj_ucZQ4hA) | ICLR | `W`     |  -  |
+
 
 ### 2020
 
