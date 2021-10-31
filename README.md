@@ -37,9 +37,9 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://arxiv.org/abs/2009.11094) | NeurIPS | `W`     | [PyTorch(Author)](https://github.com/JingtongSu/sanity-checking-pruning) |
 | [Neuron Merging: Compensating for Pruned Neurons](https://arxiv.org/abs/2010.13160) | NeurIPS | `F`     | [PyTorch(Author)](https://github.com/friendshipkim/neuron-merging)  |
 | [Neuron-level Structured Pruning using Polarization Regularizer](https://papers.nips.cc/paper/2020/file/703957b6dd9e3a7980e040bee50ded65-Paper.pdf) | NeurIPS | `F`     |  [PyTorch(Author)](https://github.com/polarizationpruning/PolarizationPruning)   |
-| [SCOP: Scientific Control for Reliable Neural Network Pruning](https://arxiv.org/abs/2010.10732) | NeurIPS | `F`     |  - |
+| [SCOP: Scientific Control for Reliable Neural Network Pruning](https://arxiv.org/abs/2010.10732) | NeurIPS | `F`     |  [PyTorch(Author)](https://github.com/yehuitang/Pruning/tree/master/SCOP_NeurIPS2020)  |
 | [Storage Efficient and Dynamic Flexible Runtime Channel Pruning via Deep Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/a914ecef9c12ffdb9bede64bb703d877-Abstract.html) | NeurIPS | `F`     |  - |
-| [The Generalization-Stability Tradeoff In Neural Network Pruning](https://arxiv.org/abs/1906.03728) | NeurIPS | `F`     | [PyTorch(Author)](https://github.com/Jangho-Kim/PSG-pytorch) |
+| [The Generalization-Stability Tradeoff In Neural Network Pruning](https://arxiv.org/abs/1906.03728) | NeurIPS | `F`     | [PyTorch(Author)](https://github.com/bbartoldson/GeneralizationStabilityTradeoff) |
 | [Pruning Filter in Filter](https://arxiv.org/abs/2009.14410) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/fxmeng/Pruning-Filter-in-Filter)   |
 | [Position-based Scaled Gradient for Model Quantization and Pruning](https://arxiv.org/abs/2005.11035) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/Jangho-Kim/PSG-pytorch) |
 | [Bayesian Bits: Unifying Quantization and Pruning](https://arxiv.org/abs/2005.07093) | NeurIPS | `Other`     | -  |
@@ -80,6 +80,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | [AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates](https://arxiv.org/abs/1907.03141) | AAAI  | `F`     | -    |
 | [DARB: A Density-Aware Regular-Block Pruning for Deep Neural Networks](http://arxiv.org/abs/1911.08020)                          | AAAI  | `Other` | -    |
 | [Pruning from Scratch](http://arxiv.org/abs/1909.12579)                                                                          | AAAI  | `Other` | -    |
+| [Reborn filters: Pruning convolutional neural networks with limited data](https://ojs.aaai.org/index.php/AAAI/article/view/6058)                                                                          | AAAI  | `F` | -    |
 
 ### 2019
 
