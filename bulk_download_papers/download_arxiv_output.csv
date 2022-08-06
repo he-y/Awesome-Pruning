@@ -1,0 +1,99 @@
+http://arxiv.org/abs/2105.10065v1,A Probabilistic Approach to Neural Network Pruning,7
+http://arxiv.org/abs/2010.04879v3,Accelerate CNNs from Three Dimensions,16
+http://arxiv.org/abs/2108.00708v1,Group Fisher Pruning for Practical Network Compression,15
+http://arxiv.org/abs/2006.10621v3,On the Predictability of Pruning Across Scales,11
+http://arxiv.org/abs/2105.11228v1,Towards Compact CNNs via Collaborative Compression,6
+http://arxiv.org/abs/2010.15703v3,"Permute, Quantize, and Fine-tune",6
+http://arxiv.org/abs/2012.00596v3,NPAS,12
+http://arxiv.org/abs/2104.03438v1,Convolutional Neural Network Pruning with Structural Redundancy Reduction,4
+http://arxiv.org/abs/2103.05861v1,Manifold Regularized Dynamic Network Pruning,11
+http://arxiv.org/abs/2105.12971v1,Joint-DetNAS,11
+http://arxiv.org/abs/2002.10509v3,HYDRA,8
+http://arxiv.org/abs/2006.12156v2,Logarithmic Pruning is All You Need,5
+http://arxiv.org/abs/2006.09358v2,Directional Pruning of Deep Neural Networks,11
+http://arxiv.org/abs/2005.07683v2,Movement Pruning,11
+http://arxiv.org/abs/2009.11094v2,Sanity-Checking Pruning Methods,6
+http://arxiv.org/abs/2010.13160v1,Neuron Merging,9
+http://arxiv.org/abs/2010.10732v2,SCOP,9
+http://arxiv.org/abs/1906.03728v4,The Generalization-Stability Tradeoff In Neural Network Pruning,10
+http://arxiv.org/abs/2009.14410v3,Pruning Filter in Filter,6
+http://arxiv.org/abs/2005.11035v4,Position-based Scaled Gradient for Model Quantization and Pruning,10
+http://arxiv.org/abs/2005.07093v3,Bayesian Bits,11
+http://arxiv.org/abs/2006.05467v3,Pruning neural networks without any data by iteratively conserving synaptic flow,16
+http://arxiv.org/abs/2007.02491v2,EagleEye,9
+http://arxiv.org/abs/2004.02164v5,DSA,10
+http://arxiv.org/abs/2003.13683v3,DHP,15
+http://arxiv.org/abs/2007.03219v2,Meta-Learning with Network Pruning,7
+http://arxiv.org/abs/1908.00173v3,Accelerating CNN Training by Pruning Activation Gradients,6
+http://arxiv.org/abs/2003.12563v1,DA-NAS,10
+http://arxiv.org/abs/2007.10463v2,Differentiable Joint Pruning and Quantization for Hardware Efficiency,4
+http://arxiv.org/abs/2001.08565v3,Channel Pruning via Automatic Structure Search,6
+http://arxiv.org/abs/1908.04355v4,Adversarial Neural Pruning with Latent Vulnerability Suppression,35
+http://arxiv.org/abs/2002.00585v1,Proving the Lottery Ticket Hypothesis,4
+http://arxiv.org/abs/2002.03231v9,Soft Threshold Weight Reparameterization for Learnable Sparsity,11
+http://arxiv.org/abs/2003.01794v3,Good Subnetworks Provably Exist,9
+http://arxiv.org/abs/2007.03938v2,Operation-Aware Soft Channel Pruning using Differentiable Masks,6
+http://arxiv.org/abs/1904.12368v2,Towards Efficient Model Compression via Learned Global Ranking,10
+http://arxiv.org/abs/2002.10179v2,HRank,22
+http://arxiv.org/abs/1911.08114v3,Neural Network Pruning with Residual-Connections and Limited-Data,5
+http://arxiv.org/abs/2005.03354v2,DMCP,6
+http://arxiv.org/abs/2003.08935v1,Group Sparsity,17
+http://arxiv.org/abs/1812.01839v3,Few Sample Knowledge Distillation for Efficient Network Compression,7
+http://arxiv.org/abs/1905.10138v2,Structured Compression by Weight Encryption for Unstructured Pruning and Quantization,5
+http://arxiv.org/abs/2006.08509v1,APQ,10
+http://arxiv.org/abs/2003.02389v1,Comparing Rewinding and Fine-tuning in Neural Network Pruning,49
+http://arxiv.org/abs/1906.06307v2,A Signal Propagation Perspective for Pruning Neural Networks at Initialization,10
+http://arxiv.org/abs/1912.00120v1,One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation,5
+http://arxiv.org/abs/2002.04809v1,Lookahead,5
+http://arxiv.org/abs/1911.07412v2,Provable Filter Pruning for Efficient Neural Networks,9
+http://arxiv.org/abs/1907.04018v3,Data-Independent Neural Pruning via Coresets,6
+http://arxiv.org/abs/1907.03141v2,AutoCompress,20
+http://arxiv.org/abs/1911.08020v2,DARB,5
+http://arxiv.org/abs/1909.12579v1,Pruning from Scratch,13
+http://arxiv.org/abs/1905.09717v5,Network Pruning via Transformable Architecture Search,5
+http://arxiv.org/abs/1909.08174v1,Gate Decorator,16
+http://arxiv.org/abs/1905.01067v4,Deconstructing Lottery Tickets,12
+http://arxiv.org/abs/1906.02773v2,One ticket to win them all,5
+http://arxiv.org/abs/1909.12778v3,Global Sparse Momentum SGD for Pruning Very Deep Neural Networks,5
+http://arxiv.org/abs/1902.03538v3,Model Compression with Adversarial Robustness,5
+http://arxiv.org/abs/1903.10258v3,MetaPruning,21
+http://arxiv.org/abs/1812.00353v2,Accelerate CNN via Recursive Bayesian Pruning,8
+http://arxiv.org/abs/1903.12561v5,"Adversarial Robustness vs Model Compression, or Both?",5
+http://arxiv.org/abs/1908.08932v2,Learning Filter Basis for Convolutional Neural Network Compression,40
+http://arxiv.org/abs/1811.00250v3,Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration,8
+http://arxiv.org/abs/1903.09291v1,Towards Optimal Structured CNN Pruning via Generative Adversarial Learning,7
+http://arxiv.org/abs/1904.03837v1,Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure,7
+http://arxiv.org/abs/1811.12495v2,On Implicit Filter Level Sparsity in Convolutional Neural Networks,36
+http://arxiv.org/abs/1811.09332v3,Structured Pruning of Neural Networks with Budget-Aware Regularization,16
+http://arxiv.org/abs/1905.11664v5,OICSR,29
+http://arxiv.org/abs/1903.03777v2,Partial Order Pruning,6
+http://arxiv.org/abs/1803.03635v5,The Lottery Ticket Hypothesis,18
+http://arxiv.org/abs/1810.05270v2,Rethinking the Value of Network Pruning,10
+http://arxiv.org/abs/1810.05331v2,Dynamic Channel Pruning,21
+http://arxiv.org/abs/1810.02340v2,SNIP,6
+http://arxiv.org/abs/1810.00859v2,Dynamic Sparse Graph for Efficient Deep Learning,11
+http://arxiv.org/abs/1905.04748v1,Approximated Oracle Filter Pruning for Destructive CNN Width Optimization,17
+http://arxiv.org/abs/1905.05934v1,EigenDamage,37
+http://arxiv.org/abs/1906.10337v1,COP,7
+http://arxiv.org/abs/1802.00124v2,Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers,4
+http://arxiv.org/abs/1710.01878v2,"To prune, or not to prune",4
+http://arxiv.org/abs/1810.11809v3,Discrimination-aware Channel Pruning for Deep Neural Networks,10
+http://arxiv.org/abs/1810.11764v1,Learning Sparse Neural Networks via Sensitivity-Driven Regularization,4
+http://arxiv.org/abs/1802.03494v4,AMC,7
+http://arxiv.org/abs/1707.01213v3,Data-Driven Sparse Structure Selection for Deep Neural Networks,7
+http://arxiv.org/abs/1807.09810v1,Coreset-Based Neural Network Compression,19
+http://arxiv.org/abs/1804.03294v3,A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers,5
+http://arxiv.org/abs/1711.05769v2,PackNet,4
+http://arxiv.org/abs/1711.05908v3,NISP,7
+http://arxiv.org/abs/1808.06866v1,Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks,5
+http://arxiv.org/abs/1608.08710v3,Pruning Filters for Efficient ConvNets,20
+http://arxiv.org/abs/1611.06440v2,Pruning Convolutional Neural Networks for Resource Efficient Inference,11
+http://arxiv.org/abs/1611.05162v4,Net-Trim,8
+http://arxiv.org/abs/1705.07565v2,Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon,5
+http://arxiv.org/abs/1611.05128v4,Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning,6
+http://arxiv.org/abs/1707.06342v1,ThiNet,6
+http://arxiv.org/abs/1707.06168v2,Channel Pruning for Accelerating Very Deep Neural Networks,7
+http://arxiv.org/abs/1708.06519v1,Learning Efficient Convolutional Networks through Network Slimming,6
+http://arxiv.org/abs/1510.00149v5,Deep Compression,7
+http://arxiv.org/abs/1608.04493v2,Dynamic Network Surgery for Efficient DNNs,9
+http://arxiv.org/abs/1506.02626v3,Learning both Weights and Connections for Efficient Neural Networks,7
