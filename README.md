@@ -28,9 +28,27 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 | Explanation | Filter pruning | Weight pruning | other types |
 
 ### 2021
-
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [Pruning Randomly Initialized Neural Networks with Iterative Randomization](https://papers.nips.cc/paper/2021/hash/23e582ad8087f2c03a5a31c125123f9a-Abstract.html) | NeurIPS | `W`     | [PyTorch(Author)](https://github.com/dchiji-ntt/iterand) |
+| [Sparse Training via Boosting Pruning Plasticity with Neuroregeneration](https://papers.nips.cc/paper/2021/hash/5227b6aaf294f5f027273aebf16015f2-Abstract.html) | NeurIPS | `W`     | [PyTorch(Author)](https://github.com/VITA-Group/GraNet) |
+| [Rethinking the Pruning Criteria for Convolutional Neural Network](https://papers.nips.cc/paper/2021/hash/87ae6fb631f7c8a627e8e28785d9992d-Abstract.html) | NeurIPS | `F`     | - |
+| [Only Train Once: A One-Shot Neural Network Training And Pruning Framework](https://papers.nips.cc/paper/2021/hash/a376033f78e144f494bfc743c0be3330-Abstract.html) | NeurIPS | `F`     | [PyTorch(Author)](https://github.com/tianyic/onlytrainonce) |
+| [CHIP: CHannel Independence-based Pruning for Compact Neural Networks](https://papers.nips.cc/paper/2021/hash/ce6babd060aa46c61a5777902cca78af-Abstract.html) | NeurIPS | `F`     | [PyTorch(Author)](https://github.com/Eclipsess/CHIP_NeurIPS2021) |
+| [Sparse Flows: Pruning Continuous-depth Models](https://papers.nips.cc/paper/2021/hash/bf1b2f4b901c21a1d8645018ea9aeb05-Abstract.html) | NeurIPS | `WF`     | [PyTorch(Author)](https://github.com/lucaslie/torchprune) |
+| [A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://papers.nips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html) | NeurIPS | `W`     | [PyTorch(Author)](https://github.com/RobustBench/robustbench) |
+| [Compressing Neural Networks: Towards Determining the Optimal Layer-wise Decomposition](https://papers.nips.cc/paper/2021/hash/2adcfc3929e7c03fac3100d3ad51da26-Abstract.html) | NeurIPS | `F`     | [PyTorch(Author)](https://github.com/lucaslie/torchprune) |
+| [AC/DC: Alternating Compressed/DeCompressed Training of Deep Neural Networks](https://papers.nips.cc/paper/2021/hash/48000647b315f6f00f913caa757a70b3-Abstract.html) | NeurIPS | `W`     | [PyTorch(Author)](https://github.com/IST-DASLab/ACDC) |
+| [RED : Looking for Redundancies for Data-FreeStructured Compression of Deep Neural Networks](https://papers.nips.cc/paper/2021/hash/ae5e3ce40e0404a45ecacaaf05e5f735-Abstract.html) | NeurIPS | `F`     | - |
+| [Scaling Up Exact Neural Network Compression by ReLU Stability](https://papers.nips.cc/paper/2021/hash/e35d7a5768c4b85b4780384d55dc3620-Abstract.html) | NeurIPS | `F`     | [PyTorch(Author)](https://github.com/yuxwind/ExactCompression) |
+| [Revisiting Discriminator in GAN Compression: A Generator-discriminator Cooperative Compression Scheme](https://papers.nips.cc/paper/2021/hash/effc299a1addb07e7089f9b269c31f2f-Abstract.html) | NeurIPS | `F`     | [PyTorch(Author)](https://github.com/SJLeo/GCC) |
+| [Heavy Tails in SGD and Compressibility of Overparametrized Neural Networks](https://papers.nips.cc/paper/2021/hash/f5c3dd7514bf620a1b85450d2ae374b1-Abstract.html) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/mbarsbey/sgd_comp_gen) |
+| [ResRep: Lossless CNN Pruning via Decoupling Remembering and Forgetting](https://openaccess.thecvf.com/content/ICCV2021/html/Ding_ResRep_Lossless_CNN_Pruning_via_Decoupling_Remembering_and_Forgetting_ICCV_2021_paper.html) | ICCV | `F`     | [PyTorch(Author)](https://github.com/DingXiaoH/ResRep)   |
+| [Achieving on-Mobile Real-Time Super-Resolution with Neural Architecture and Pruning Search](https://openaccess.thecvf.com/content/ICCV2021/html/Zhan_Achieving_On-Mobile_Real-Time_Super-Resolution_With_Neural_Architecture_and_Pruning_Search_ICCV_2021_paper.html) | ICCV | `F`     | - |
+| [GDP: Stabilized Neural Network Pruning via Gates with Differentiable Polarization](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_GDP_Stabilized_Neural_Network_Pruning_via_Gates_With_Differentiable_Polarization_ICCV_2021_paper.html) | ICCV | `F`     | - |
+| [Auto Graph Encoder-Decoder for Neural Network Pruning](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Auto_Graph_Encoder-Decoder_for_Neural_Network_Pruning_ICCV_2021_paper.html) | ICCV | `F`     | - |
+| [Sub-Bit Neural Networks: Learning To Compress and Accelerate Binary Neural Networks](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Sub-Bit_Neural_Networks_Learning_To_Compress_and_Accelerate_Binary_Neural_ICCV_2021_paper.html) | ICCV | `Other`     | [PyTorch(Author)](https://github.com/yikaiw/SNN)   |
+| [Exploration and Estimation for Model Compression](https://papers.nips.cc/paper/2021/hash/5227b6aaf294f5f027273aebf16015f2-Abstract.html) | ICCV | `F`     | - |
 | [A Probabilistic Approach to Neural Network Pruning](https://arxiv.org/abs/2105.10065) | ICML | `F`     | -   |
 | [Accelerate CNNs from Three Dimensions: A Comprehensive Pruning Framework](https://arxiv.org/abs/2010.04879) | ICML | `F`     | -  |
 | [Group Fisher Pruning for Practical Network Compression](https://arxiv.org/abs/2108.00708) | ICML | `F`     | [PyTorch(Author)](https://github.com/jshilong/FisherPruning)   |
