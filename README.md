@@ -8,7 +8,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 - [Type of Pruning](#type-of-pruning)
 
-- [A Survey on Filter Pruning](#a-survey-on-filter-pruning)
+- [A Survey of Structured Pruning](#a-survey-of-structured-pruning-arxiv-version-and-ieee-t-pami-version)
 
 - [2023 Venues](#2023)
 
@@ -34,9 +34,22 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |:----------- |:--------------:|:--------------:|:----------------:|:-----------:|
 | Explanation | Filter pruning | Weight pruning | Special Networks | other types |
 
-### A Survey on Filter Pruning
+### A Survey of Structured Pruning ([arXiv version](https://arxiv.org/abs/2303.00566) and [IEEE T-PAMI version](https://ieeexplore.ieee.org/document/10330640))
 
-A survey of structured pruning can be found at this link: [arxiv](https://arxiv.org/abs/2303.00566). The related papers are categorized as below:
+Please cite our paper if it's helpful:
+```
+@article{he2023structured,
+  author={He, Yang and Xiao, Lingao},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Structured Pruning for Deep Convolutional Neural Networks: A Survey}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-20},
+  doi={10.1109/TPAMI.2023.3334614}}
+```
+
+The related papers are categorized as below:
 ![Structured Pruning Taxonomy](./Structured_Taxonomy.png)
 
 ### 2023
