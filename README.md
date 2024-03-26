@@ -54,7 +54,7 @@ The related papers are categorized as below:
 ### 2024
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| Distilled Gradual Pruning with Pruned Fine-tuning](https://ieeexplore.ieee.org/document/10438214)                                                            | IEEE  | `W`     | [PyTorch(Author)](https://github.com/rom42pla/dg2pf)                               |
+| [Distilled Gradual Pruning with Pruned Fine-tuning](https://ieeexplore.ieee.org/document/10438214)                                                            | IEEE  | `W`     | [PyTorch(Author)](https://github.com/rom42pla/dg2pf)                               |
 
 ### 2023
 | Title                                                                                                                            | Venue | Type    | Code |
