@@ -38,14 +38,14 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 Please cite our paper if it's helpful:
 ```
-@article{he2023structured,
+@article{he2024structured,
   author={He, Yang and Xiao, Lingao},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Structured Pruning for Deep Convolutional Neural Networks: A Survey}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-20},
+  year={2024},
+  volume={46},
+  number={5},
+  pages={2900-2919},
   doi={10.1109/TPAMI.2023.3334614}}
 ```
 
